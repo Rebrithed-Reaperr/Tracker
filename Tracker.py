@@ -7,7 +7,7 @@ import os
 def load_animation(): 
   
     # String to be displayed when the application is loading 
-    load_str = "loading ip-tracker by linuxuser-choice..."
+    load_str = "loading ip-tracker by @Pwn.DoxGod..."
     ls_len = len(load_str) 
   
   
